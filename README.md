@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **cs3684@drexel.edu**
+- 📫 How to reach me **shichuanling23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
